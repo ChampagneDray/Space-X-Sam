@@ -85,7 +85,6 @@ body {
 
 /* img_planet===================================================== */
 .img_planet {
-    text-align: center;
     background-image: url(/img/planet.png);
     width: 100%;
     height: 1000px;
@@ -98,6 +97,7 @@ body {
 /* information==================================================== */
 .information {
     display: flex;
+    justify-content: space-between;
 }
 .text_main {
     margin-top: 492px;
@@ -141,11 +141,8 @@ body {
     color: #FFFFFF;
 }
 .img_rocket {
-    position: absolute;
     width: 644px;
-    height: 1718px;
-    top: 1307px;
-    left: 691px;
+    height: 1550px;
 }
 
 
