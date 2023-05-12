@@ -51,8 +51,7 @@ body {
 .menu_btn {
     display: none;
 }
-.menu_list,
-.menu_list_first {
+.menu_list {
     display: flex;
     gap: 20px;
 }
