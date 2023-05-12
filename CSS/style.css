@@ -335,7 +335,7 @@ body {
         top: 0;
         bottom: 0;
         right: 0;
-        background-color: rgba(1, 0, 1, .9);
+        background-color: rgb(1, 0, 1);
         display: flex;
         justify-content: center;
         align-items: center;
@@ -409,7 +409,6 @@ body {
         margin-bottom: 110px;
     }
 }
-
 @media (max-width: 640px) {
     .nav {
         padding-bottom: 90px;
